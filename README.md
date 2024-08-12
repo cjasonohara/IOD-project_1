@@ -1,8 +1,12 @@
 # IOD-project_1
-# Film Genre, Best Bet Through Exploratory Data Analysis
+# FILM GENRE, BEST BET - Demonstrated Learning of Exploratory Data Analysis
+## MAY 2024
 
 ## Project Overview
 This was the first of four projects designed to reinforce and demonstrate my learning as part of the Institute of Data, Data Science & AI program. I chose a fictional problem of two independent filmmakers (my instructors) who approached me with the business question of which genre would be the 'safest' bet for them to pursue when developing their first feature film.
+
+- **Datasets used are included in this repository**
+- **Link to project presentation media:** 
 
 ### Objectives
 - **Stakeholder Problem**: State the business problem/question to be solved.
@@ -13,7 +17,6 @@ This was the first of four projects designed to reinforce and demonstrate my lea
 - **Visualization of EDA**: Demonstrate the process used for EDA and show the results.
 - **Summary of Results**: Summarize and show the results.
 - **Conclusion**: What were the lessons learned and what would the next steps be.
-
 
 ## Project Components
 
@@ -60,5 +63,4 @@ This was the first of four projects designed to reinforce and demonstrate my lea
 
 ### Conclusion
 - **Expand Dataset**: Not a big enough range; 'Top 1000', so data is already skewed
-- **Explore Usine Machine Learning**: Would yield better results for this type of exploration; Would provide more probabilistic outcomes vs stopping at EDA; goal would be to achieve a 'score' for each genre, based on a combination of features (vs just comparing against a single mean)
-- **Don't mess around too much!**: Altering the DF too much down the line can/will mess you up!
+- **Explore Using Machine Learning**: Would yield better results for this type of exploration; Would provide more probabilistic outcomes vs stopping at EDA; goal would be to achieve a 'score' for each genre, based on a combination of features (vs just comparing against a single mean)
