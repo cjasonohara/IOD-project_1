@@ -1,5 +1,5 @@
 # IOD-project_1
-# FILM GENRE, BEST BET - Demonstrated Learning of Exploratory Data Analysis
+# FILM GENRE, BEST BET - Exploratory Data Analysis
 ## MAY 2024
 
 ## Project Overview
