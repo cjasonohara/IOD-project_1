@@ -42,9 +42,10 @@ This was the first of four projects designed to reinforce and demonstrate my lea
 - Retained columns needed for analysis
 - Nulls were in the 16% ('Meta_score') and 17% ('Gross') range, respectively. Typically too high to drop
 - Opted to replace 'Meta_score' nulls with mean and drop the 'Gross' nulls. Predictive Imputation for 'Gross' in the future?
+
 #### UNESCO Dataset
 - Converted to Pandas DataFrame
-- Assumptions made befor importing data
+- Assumptions made before importing data
 - Used US average ticket sale price only
 
 ### Feature Engineering
