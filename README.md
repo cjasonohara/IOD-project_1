@@ -6,7 +6,7 @@
 This was the first of four projects designed to reinforce and demonstrate my learning as part of the Institute of Data, Data Science & AI program. I chose a fictional problem of two independent filmmakers (my instructors) who approached me with the business question of which genre would be the 'safest' bet for them to pursue when developing their first feature film.
 
 - **Datasets used are included in this repository**
-- **Link to project presentation media:** 
+- **Link to project presentation media:** https://www.ds-cjasonohara.com/portfolio-collections/my-portfolio/iod-project-1-exploratory-data-analysis
 
 ### Objectives
 - **Stakeholder Problem**: State the business problem/question to be solved.
